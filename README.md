@@ -32,14 +32,13 @@ Here are some ideas to get you started:
   <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=xcl-lywc&theme=tokyonight" width="50%" >
 </p>
 
-
+<p align = "center">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 - 🔭 &nbsp; 大家好，我是xcl-lywc。
 - 🤔 &nbsp; 非常欢迎你来访问我的Github。
+</p>
 
 <p align = "center" >
   <img src = "https://komarev.com/ghpvc/?username=xcl-lywc" >
 </p>
-
-
